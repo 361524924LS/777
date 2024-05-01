@@ -1,0 +1,5 @@
+·Ö×é1,#genre#
+CCTV4,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+
+CCTV2,https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
+
